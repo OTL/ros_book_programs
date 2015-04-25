@@ -1,0 +1,6 @@
+geometry_msgs/Twist target_vel
+int32 timeout_sec
+---
+bool bumper_hit
+---
+geometry_msgs/Twist current_vel
