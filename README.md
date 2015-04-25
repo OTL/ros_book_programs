@@ -1,1 +1,3 @@
-# ros_book_programs
+ROSで始める知能ロボットプログラミングのサンプルプログラムです。
+
+間違い等見つけたらPull RequestやIssueで教えてくださると助かります。
