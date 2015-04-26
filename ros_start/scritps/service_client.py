@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import rospy
-from std_srvs.srv import *
+from std_srvs.srv import Empty
 
 def service_client():
     rospy.loginfo('waiting service')

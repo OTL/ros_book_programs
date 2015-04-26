@@ -4,6 +4,7 @@
   <version>0.0.0</version>
   <description>The ros_start package</description>
 
+
   <maintainer email="your_name@gmail.com">Your Name</maintainer>
 
 
@@ -17,6 +18,8 @@
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
   <!-- <url type="website">http://wiki.ros.org/ros_start</url> -->
+
+
 
 
   <!-- Author tags are optional, mutiple are allowed, one per tag -->

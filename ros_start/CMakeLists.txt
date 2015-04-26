@@ -56,7 +56,7 @@ catkin_python_setup()
 ## Generate services in the 'srv' folder
 add_service_files(
   FILES
-  AddTwoInts.srv
+  SetVelocity.srv
 )
 
 ## Generate actions in the 'action' folder
